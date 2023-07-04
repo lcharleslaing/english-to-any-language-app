@@ -1,6 +1,5 @@
 .env
 settings.json
+/aider
 ./aider
-./.vscode
-./aider.input.history
-./aider.input.history.md
+/.vscode
